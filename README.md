@@ -10,13 +10,15 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Description of your Plugin
+Dieses Plug ermöglicht ihnen in Wikipedia zu suchen.
 
 ## Usage
 ```
-You: example of how to trigger the command
-Jarvis: output from Jarvis
+Du: Gib mir die Definition von Biene
+Jarvis: Eine Biene....
+Du: Was ist Apple
+Jarvis: Apple ist...
 ```
 
 ## Author
-[your name](http://your.website)
+[Andyy61](https://github.com/Andyy61)
