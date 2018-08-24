@@ -4,3 +4,4 @@
 *wer war (*)*==say "Ich suche..." &&  say "$(jv_pg_wk_search "(1)")"
 *GIB*DEFINITION*VON (*)==say "Ich suche..." &&  say "$(jv_pg_wk_search "(1)")"
 *DEFINIERE (*)==say "Ich suche..." &&  say "$(jv_pg_wk_search "(1)")"
+*wer ist (*)*==say "Ich suche..." && say "$(jv_pg_wk_search "(1)")"
