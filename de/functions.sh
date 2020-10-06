@@ -18,7 +18,7 @@ local WIKI_SEARCH=$(echo $1 | tr -d ' ')
 #local WIKI_SEARCH=$(jv_sanitize $1)
 
 #wikipedia search api
-local LIMITED_WIKI_QUERY="https://$jv_pg_wk_lang.wikipedia.org/w/api.php?action=opensearch&search="$WIKI_SEARCH"&prop=revisions&rvprop=content&format=json"
+local LIMITED_WIKI_QUERY="https://minecraft-de.gamepedia.com/$WIKI_SEARCH"
 
 
 #the request's result 
